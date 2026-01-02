@@ -3,6 +3,7 @@ STUDENT MANAGEMENT SYSTEM REST API
 
 PROJECT OVERVIEW
 
+
 This project is a Student Management System RESTful API developed using Node.js and Express.js.
 
 It provides endpoints to perform CRUD (Create, Read, Update, Delete) operations on student data with support for both single and bulk requests.
